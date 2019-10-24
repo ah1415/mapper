@@ -1,0 +1,39 @@
+
+#MenuWid{
+    background-color: brown;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
+#MN{
+    color: white;
+}
+#DirRev{
+    background-color: brown;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+#Dir{
+    color: white;
+}
+
+checkbutton label{
+    color: white;
+}
+
+button label{
+    color: black;
+}
+
+scale value{
+    color: black;
+}
+
+statusbar label{
+    color: black;
+}
+#NM{
+    color: white;
+}
